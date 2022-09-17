@@ -33,6 +33,7 @@ Place: Kerala, In
 
 
 ### Installation
+pip install web3
 pip install openlp
 
 ### Usage
