@@ -1,0 +1,9 @@
+README.md
+setup.py
+openlp/__init__.py
+openlp/utils.py
+openlp.egg-info/PKG-INFO
+openlp.egg-info/SOURCES.txt
+openlp.egg-info/dependency_links.txt
+openlp.egg-info/requires.txt
+openlp.egg-info/top_level.txt
