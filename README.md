@@ -1,10 +1,9 @@
-# OpenLP Python SDK
-Open Loyality Points (OpenLP) is an opensource Loyality Point platform build top on public blockchain.
+# OpenLP3 Python SDK
+Open Loyality Points 3 (OpenLP3) is an opensource Loyality Point platform build top on public blockchain.
 
 <br>
 Auther: Midhun Chandrasekhar
 <br>
-Software Architect
 
 Date: Sep 04, 2022
 <br>
