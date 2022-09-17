@@ -22,11 +22,10 @@ Place: Kerala, In
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
 
 ### Documentation
-*OpenLP Version 0.1.0 Doc
+*OpenLP Python SDK Version 0.1.0 Doc
 <br>
 
 ### Status
