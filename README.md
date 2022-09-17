@@ -1,10 +1,9 @@
-# OpenLP3 Python SDK
-Open Loyality Points 3 (OpenLP3) is an opensource Loyality Point platform build top on public blockchain.
+# OpenLP Python SDK
+Open Loyality Points (OpenLP) is an opensource Loyality Point platform build top on public blockchain.
 
 <br>
 Auther: Midhun Chandrasekhar
 <br>
-
 Date: Sep 04, 2022
 <br>
 Place: Kerala, In
@@ -24,7 +23,7 @@ Place: Kerala, In
 <br>
 
 ### Documentation
-*OpenLP Python SDK Version 0.1.0 Doc
+*OpenLP Version 0.1.0 Doc
 <br>
 
 ### Status
@@ -33,14 +32,19 @@ Place: Kerala, In
 
 ### Installation
 pip install web3
-pip install openlp
+<br>
+pip install openlp3
 
 ### Usage
+
+Deploy smart contract from https://github.com/Midhun-Chandrasekhar/OpenLP on EVM
+compatible blockchain (etherium). 
+
 #### Import
 from openlp import OpenLP
 
 #### Initializing
-olp = OpenLP("network_address", "contract_address", "contract_owner_private_key", "contract_abi")
+olp = OpenLP3("network_address", "contract_address", "contract_owner_private_key", "contract_abi")
 
 #### Contract Information
 olp.contract_info()
@@ -62,4 +66,5 @@ olp.user_points("wallet_address")
 
 ### Contributing 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Midhun-Chandrasekhar/OpenLP)
+
 
