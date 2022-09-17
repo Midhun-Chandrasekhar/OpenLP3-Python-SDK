@@ -55,6 +55,7 @@ olp.burn_points("wallet_address", 100)
 olp.user_points("wallet_address")
 
 <br>
+
 ### License
 ![](https://camo.githubusercontent.com/afa3b4832847df4bdf741044e496aa501da653e7d9c9cbb60091f3faa5bcb673/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d6f72616e6765)
 <br>
